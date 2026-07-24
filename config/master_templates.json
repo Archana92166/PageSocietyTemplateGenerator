@@ -1,0 +1,53 @@
+{
+  "templates": [
+    {
+      "schema_version": 1,
+      "name": "A3",
+      "geometry": {"trim_width_mm": 297, "trim_height_mm": 420, "bleed_mm": 3, "safe_area_mm": 5, "barcode_width_mm": 50.8, "barcode_height_mm": 30.48, "barcode_right_margin_mm": 10, "barcode_bottom_margin_mm": 10},
+      "layer_structure": ["Bleed", "Trim", "Safe Area", "Back Cover", "Spine", "Front Cover", "Barcode Reserved Area", "Guides"],
+      "metadata": {"display_name": "ISO A3", "measurement_unit": "mm"}
+    },
+    {
+      "schema_version": 1,
+      "name": "A4",
+      "geometry": {"trim_width_mm": 210, "trim_height_mm": 297, "bleed_mm": 3, "safe_area_mm": 5, "barcode_width_mm": 50.8, "barcode_height_mm": 30.48, "barcode_right_margin_mm": 10, "barcode_bottom_margin_mm": 10},
+      "layer_structure": ["Bleed", "Trim", "Safe Area", "Back Cover", "Spine", "Front Cover", "Barcode Reserved Area", "Guides"],
+      "metadata": {"display_name": "ISO A4", "measurement_unit": "mm"}
+    },
+    {
+      "schema_version": 1,
+      "name": "A5",
+      "geometry": {"trim_width_mm": 148, "trim_height_mm": 210, "bleed_mm": 3, "safe_area_mm": 5, "barcode_width_mm": 50.8, "barcode_height_mm": 30.48, "barcode_right_margin_mm": 10, "barcode_bottom_margin_mm": 10},
+      "layer_structure": ["Bleed", "Trim", "Safe Area", "Back Cover", "Spine", "Front Cover", "Barcode Reserved Area", "Guides"],
+      "metadata": {"display_name": "ISO A5", "measurement_unit": "mm"}
+    },
+    {
+      "schema_version": 1,
+      "name": "A5 Slim",
+      "geometry": {"trim_width_mm": 130, "trim_height_mm": 198, "bleed_mm": 3, "safe_area_mm": 5, "barcode_width_mm": 50.8, "barcode_height_mm": 30.48, "barcode_right_margin_mm": 10, "barcode_bottom_margin_mm": 10},
+      "layer_structure": ["Bleed", "Trim", "Safe Area", "Back Cover", "Spine", "Front Cover", "Barcode Reserved Area", "Guides"],
+      "metadata": {"display_name": "A5 Slim", "measurement_unit": "mm"}
+    },
+    {
+      "schema_version": 1,
+      "name": "A6",
+      "geometry": {"trim_width_mm": 105, "trim_height_mm": 148, "bleed_mm": 3, "safe_area_mm": 5, "barcode_width_mm": 50.8, "barcode_height_mm": 30.48, "barcode_right_margin_mm": 10, "barcode_bottom_margin_mm": 10},
+      "layer_structure": ["Bleed", "Trim", "Safe Area", "Back Cover", "Spine", "Front Cover", "Barcode Reserved Area", "Guides"],
+      "metadata": {"display_name": "ISO A6", "measurement_unit": "mm"}
+    },
+    {
+      "schema_version": 1,
+      "name": "A7",
+      "geometry": {"trim_width_mm": 74, "trim_height_mm": 105, "bleed_mm": 3, "safe_area_mm": 5, "barcode_width_mm": 50.8, "barcode_height_mm": 30.48, "barcode_right_margin_mm": 10, "barcode_bottom_margin_mm": 10},
+      "layer_structure": ["Bleed", "Trim", "Safe Area", "Back Cover", "Spine", "Front Cover", "Barcode Reserved Area", "Guides"],
+      "metadata": {"display_name": "ISO A7", "measurement_unit": "mm"}
+    },
+    {
+      "schema_version": 1,
+      "name": "A8",
+      "geometry": {"trim_width_mm": 52, "trim_height_mm": 74, "bleed_mm": 3, "safe_area_mm": 5, "barcode_width_mm": 30, "barcode_height_mm": 18, "barcode_right_margin_mm": 4, "barcode_bottom_margin_mm": 4},
+      "layer_structure": ["Bleed", "Trim", "Safe Area", "Back Cover", "Spine", "Front Cover", "Barcode Reserved Area", "Guides"],
+      "metadata": {"display_name": "ISO A8", "measurement_unit": "mm"}
+    }
+  ]
+}

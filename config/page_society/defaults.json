@@ -1,0 +1,6 @@
+{
+  "bleed_mm": 3,
+  "safe_area_mm": 5,
+  "measurement_unit": "mm",
+  "default_export": "PDF/X-4"
+}
