@@ -1,0 +1,82 @@
+{
+  "standards": [
+    {
+      "name": "ISO A",
+      "sizes": [
+        {"name": "A0", "width_mm": 841, "height_mm": 1189},
+        {"name": "A1", "width_mm": 594, "height_mm": 841},
+        {"name": "A2", "width_mm": 420, "height_mm": 594},
+        {"name": "A3", "width_mm": 297, "height_mm": 420},
+        {"name": "A4", "width_mm": 210, "height_mm": 297},
+        {"name": "A5", "width_mm": 148, "height_mm": 210},
+        {"name": "A6", "width_mm": 105, "height_mm": 148},
+        {"name": "A7", "width_mm": 74, "height_mm": 105},
+        {"name": "A8", "width_mm": 52, "height_mm": 74},
+        {"name": "A9", "width_mm": 37, "height_mm": 52},
+        {"name": "A10", "width_mm": 26, "height_mm": 37}
+      ]
+    },
+    {
+      "name": "ISO B",
+      "sizes": [
+        {"name": "B0", "width_mm": 1000, "height_mm": 1414},
+        {"name": "B1", "width_mm": 707, "height_mm": 1000},
+        {"name": "B2", "width_mm": 500, "height_mm": 707},
+        {"name": "B3", "width_mm": 353, "height_mm": 500},
+        {"name": "B4", "width_mm": 250, "height_mm": 353},
+        {"name": "B5", "width_mm": 176, "height_mm": 250},
+        {"name": "B6", "width_mm": 125, "height_mm": 176},
+        {"name": "B7", "width_mm": 88, "height_mm": 125},
+        {"name": "B8", "width_mm": 62, "height_mm": 88},
+        {"name": "B9", "width_mm": 44, "height_mm": 62},
+        {"name": "B10", "width_mm": 31, "height_mm": 44}
+      ]
+    },
+    {
+      "name": "ISO C",
+      "sizes": [
+        {"name": "C0", "width_mm": 917, "height_mm": 1297},
+        {"name": "C1", "width_mm": 648, "height_mm": 917},
+        {"name": "C2", "width_mm": 458, "height_mm": 648},
+        {"name": "C3", "width_mm": 324, "height_mm": 458},
+        {"name": "C4", "width_mm": 229, "height_mm": 324},
+        {"name": "C5", "width_mm": 162, "height_mm": 229},
+        {"name": "C6", "width_mm": 114, "height_mm": 162},
+        {"name": "C7", "width_mm": 81, "height_mm": 114},
+        {"name": "C8", "width_mm": 57, "height_mm": 81},
+        {"name": "C9", "width_mm": 40, "height_mm": 57},
+        {"name": "C10", "width_mm": 28, "height_mm": 40}
+      ]
+    },
+    {
+      "name": "US",
+      "sizes": [
+        {"name": "Letter", "width_mm": 215.9, "height_mm": 279.4},
+        {"name": "Legal", "width_mm": 215.9, "height_mm": 355.6},
+        {"name": "Executive", "width_mm": 184.15, "height_mm": 266.7},
+        {"name": "Composition", "width_mm": 189, "height_mm": 246}
+      ]
+    },
+    {
+      "name": "Square",
+      "sizes": [
+        {"name": "Square 100", "width_mm": 100, "height_mm": 100},
+        {"name": "Square 150", "width_mm": 150, "height_mm": 150},
+        {"name": "Square 200", "width_mm": 200, "height_mm": 200},
+        {"name": "Square 210", "width_mm": 210, "height_mm": 210},
+        {"name": "Square 250", "width_mm": 250, "height_mm": 250}
+      ]
+    },
+    {
+      "name": "Signature/Folio",
+      "sizes": [
+        {"name": "Signature", "width_mm": 203.2, "height_mm": 254},
+        {"name": "Folio", "width_mm": 210, "height_mm": 330}
+      ]
+    },
+    {
+      "name": "Custom",
+      "sizes": []
+    }
+  ]
+}
