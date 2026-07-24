@@ -1,0 +1,25 @@
+{
+  "bindings": [
+    "Paperback",
+    "Hardcover",
+    "Perfect Bound",
+    "Case Bound",
+    "Saddle Stitch",
+    "Spiral Bound",
+    "Wire-O"
+  ],
+  "export_formats": ["SVG", "PDF", "PNG", "JPG"],
+  "measurement_units": ["mm", "inches"],
+  "barcode_placements": [
+    "back_cover_bottom_right",
+    "back_cover_bottom_left",
+    "back_cover_bottom_center"
+  ],
+  "spine_calculation_methods": [
+    "kdp_page_count",
+    "ingramspark_page_count",
+    "lulu_page_count",
+    "manual",
+    "generic_page_count"
+  ]
+}
