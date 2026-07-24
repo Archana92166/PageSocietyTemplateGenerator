@@ -1,0 +1,15 @@
+{
+  "application": {
+    "name": "Page Society Template Generator",
+    "organization_name": "Page Society"
+  },
+  "window": {
+    "title": "Page Society Template Generator",
+    "width": 1280,
+    "height": 800
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s | %(levelname)s | %(name)s | %(message)s"
+  }
+}
